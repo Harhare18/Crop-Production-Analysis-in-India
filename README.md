@@ -1,9 +1,10 @@
 # Crop Production Analysis in India
 
 
-##  Problem Statement:- The Agriculture business domain, as a vital part of the overall supply chain, is expected to highly evolve in the upcoming years via the developments, which are taking place on the side of the Future Internet.This Dashboard helps to understand the prodution of crops in India in year from 1997 to 2015.it also provides the understanding of crop production in India through different states,districts and seasons also get to know the area of states and crop.
+##  Problem Statement : 
+The Agriculture business domain, as a vital part of the overall supply chain, is expected to highly evolve in the upcoming years via the developments, which are taking place on the side of the Future Internet.This Dashboard helps to understand the prodution of crops in India in year from 1997 to 2015.it also provides the understanding of crop production in India through different states,districts and seasons also get to know the area of states and crop.
 
-##Steps Followed
+##Steps Followed :
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
@@ -28,7 +29,7 @@ page 3 :Area
 ![Screenshot (9)](https://github.com/Harhare18/Crop-Production-Analysis-in-India/assets/101700437/608df66d-bcda-47e7-8ee8-f6fdea7690b1)
 
 
-## Insights
+## Insights :
 Following inference can be drawn from the Dashboard    
   1. overview
 - Total production is 1,251M
